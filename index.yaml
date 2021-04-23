@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  gbapp:
+  - apiVersion: v1
+    created: "2021-04-23T15:05:15.677228+10:00"
+    description: A Helm chart for Kubernetes
+    digest: c3a44903843ad4526a43b815dbe41c0cc68901c8512905d7b5508a27358fc4d8
+    name: gbapp
+    urls:
+    - https://raw.githubusercontent.com/cloudnativedemo/helm-repo/master/gbapp-0.1.0.tgz
+    version: 0.1.0
+  gbchn:
+  - apiVersion: v1
+    created: "2021-04-23T15:05:15.677761+10:00"
+    description: A Helm chart for Kubernetes
+    digest: 3e8e546b4920c3ef47864fe714c2d37821e1b494b34cc62ea42e38568c790426
+    name: gbchn
+    urls:
+    - https://raw.githubusercontent.com/cloudnativedemo/helm-repo/master/gbchn-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-23T15:05:15.676055+10:00"
